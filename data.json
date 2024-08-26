@@ -1,0 +1,753 @@
+[
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What services does Interactive Media Services (IMS) offer?",
+        "output": "IMS provides a range of services including National Consumer Promotions, Bulk Disbursements (cash, airtime, data bundles, shopping vouchers), Express SMS & Bulk SMS, SMS Short Code/USSD/VoIP provision, System Integrations (Bulk SMS APIs, payment gateways APIs, loyalty solutions), and Software Development tailored to client requirements."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How can I contact IMS?",
+        "output": "You can reach us at Valley View Office Park, off Limuru Rd, City Park Dr. 7th Floor, Tower A. Phone: [+254] 709 084 000, Mobile: [+254] 709 084 200."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the 'Express SMS' service?",
+        "output": "Express SMS is a bulk SMS service designed for marketing and customer engagement, allowing you to send messages to a large number of recipients quickly."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What advantages does IMS offer?",
+        "output": "IMS offers several advantages including over 20 years of industry experience, a dedicated technical and customer care team, certified and advanced technologies, a multichannel platform with reward & customer loyalty options, and high-security policies."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What should I know about IMS's policies?",
+        "output": "IMS is committed to evolving and providing the best services to clients. We handle sessions with utmost confidentiality, and data collection is limited to enhancing user experience."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Where can I find more information about IMS's services and policies?",
+        "output": "More information can be found through our Quick Links (Bulk SMS, SMS & IVR Services, Bulk Payments, Bulk Airtime, Promotional Campaigns, Web Solutions) and Important Links (Privacy Policy, Cookies Policy, Terms & Conditions)."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How can I stay updated with IMS's latest news and offers?",
+        "output": "You can stay updated by visiting our Blog section or following us on our social media platforms."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the mission of IMS?",
+        "output": "IMS's mission is to offer advanced communication and promotion solutions tailored to meet client needs, with a focus on continuous improvement and innovation."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the footer information on IMS’s website?",
+        "output": "The footer includes a copyright notice: '© 2024 Interactive Media Services LTD - Dev/Design by IT Department.'"
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What logistics services does Urgent Cargo Logistics LTD provide?",
+        "output": "Urgent Cargo Logistics LTD offers logistics services including Road Transportation, Air Freight, Sea Freight, Bulk/Project Cargo, Rail Transport, and Contract Logistics."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Where is the headquarters of Urgent Cargo Logistics LTD located?",
+        "output": "The headquarters of Urgent Cargo Logistics LTD is located at Valley View Office Park, Tower A, 7th Floor, City Park Drive off Limuru Road, Nairobi, Kenya. Tel: +254 709 084300, P.O. Box 21210-00505, Nairobi - Kenya. Email: customerservice@urgentcargo.com."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the description of the Road/Rail Transport service?",
+        "output": "Urgent Cargo has its own fleet of trucks, low loaders, car carriers, and delivery vans fitted with trucking devices to cater for your transport needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle air freight?",
+        "output": "Urgent Cargo Logistics LTD prioritizes speed and reliability. In partnership with its international network, the company arranges for the efficient movement of air freight cargo on a door-to-door basis around the world."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the focus of Urgent Cargo's sea freight service?",
+        "output": "Sea freight is Urgent Cargo's core activity. The company offers flexible service options for ocean freight, clearance, and transportation of local and transit cargo."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How long has Urgent Cargo Logistics LTD been in business?",
+        "output": "Urgent Cargo Logistics LTD has a track record of 39 years, providing extensive experience and wisdom to serve clients with speed and accuracy."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What are the core services of Urgent Cargo Logistics LTD?",
+        "output": "Urgent Cargo Logistics LTD provides custom logistic services including road, air, rail, and sea transportation. The company ensures fast, safe, and accurate shipment to any global destination."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How many staff members does Urgent Cargo Logistics LTD have?",
+        "output": "Urgent Cargo Logistics LTD has a workforce of over 250 permanent staff, described as industry experts with global standards for customer care and support."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD ensure efficiency and compliance with global standards?",
+        "output": "Urgent Cargo Logistics LTD has invested in automation to comply with global standards and ensure efficiency in its operations."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Where are the branch offices of Urgent Cargo Logistics LTD located?",
+        "output": "Branch offices of Urgent Cargo Logistics LTD are located at ICD - Nairobi, JKIA - Nairobi, Mombasa, Nakuru, Kisumu, Eldoret, Busia, and Malaba."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the footer information on Urgent Cargo Logistics LTD’s website?",
+        "output": "The footer includes the copyright notice: '© All Rights Reserved. Urgent Cargo Logistics LTD,' and mentions that the website is designed and developed by bigideaafrica.com and maintained by the IT Department."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the process for setting up a Bulk SMS campaign with IMS?",
+        "output": "Setting up a Bulk SMS campaign with IMS involves contacting our customer service team to discuss your requirements, customizing your message, selecting your target audience, and scheduling the delivery. Our technical team will assist in setting up and testing the campaign to ensure optimal performance."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS integrate with my existing CRM system?",
+        "output": "Yes, IMS offers system integrations including API connections to your existing CRM system to streamline your communication processes and enhance your marketing strategies."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What kind of software development services does IMS provide?",
+        "output": "IMS provides custom software development services tailored to meet client-specific requirements. This includes web and mobile applications, system integrations, and bespoke software solutions to enhance business operations."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS ensure data security for its clients?",
+        "output": "IMS employs advanced security measures including encryption, secure servers, and compliance with data protection regulations to ensure the security and confidentiality of client data."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the benefits of using IMS's promotional campaign services?",
+        "output": "IMS's promotional campaign services help businesses increase their reach, engage customers effectively, and boost sales. Benefits include targeted marketing, customizable campaigns, real-time reporting, and high ROI."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Does IMS offer any loyalty solutions?",
+        "output": "Yes, IMS offers comprehensive loyalty solutions that include reward programs, customer retention strategies, and personalized marketing to enhance customer loyalty and engagement."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What kind of contract logistics services does Urgent Cargo offer?",
+        "output": "Urgent Cargo offers a range of contract logistics services including warehousing, inventory management, order fulfillment, and distribution tailored to meet client-specific needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo handle customs clearance?",
+        "output": "Urgent Cargo has a dedicated team for customs clearance, ensuring all documentation is accurately processed and compliance with international trade regulations is maintained for smooth and timely clearance of goods."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is Urgent Cargo's approach to sustainability?",
+        "output": "Urgent Cargo is committed to sustainability and incorporates eco-friendly practices in its operations. This includes optimizing routes to reduce emissions, using energy-efficient technologies, and promoting green logistics solutions."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo ensure the safety of transported goods?",
+        "output": "Urgent Cargo ensures the safety of transported goods through rigorous security protocols, real-time tracking, and employing trained personnel for handling and monitoring shipments throughout the transportation process."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What types of APIs does IMS offer for system integration?",
+        "output": "IMS offers a variety of APIs for system integration including Bulk SMS APIs, payment gateways APIs, and loyalty solutions APIs. These APIs help streamline communication processes and enhance business operations."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is IMS’s approach to customer support?",
+        "output": "IMS provides dedicated customer support with a focus on responsiveness and problem-solving. The technical and customer care teams work closely with clients to ensure their needs are met efficiently."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Does IMS offer analytics and reporting for their services?",
+        "output": "Yes, IMS provides detailed analytics and reporting for their services, helping clients track the performance of their campaigns, understand customer behavior, and make data-driven decisions."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS help with digital marketing strategies?",
+        "output": "IMS offers comprehensive digital marketing services, including the development of tailored marketing strategies to help clients reach their target audience effectively and achieve their business goals."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What payment methods does IMS accept for their services?",
+        "output": "IMS accepts a variety of payment methods including bank transfers, credit/debit cards, and mobile money payments, ensuring convenience for clients."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS handle data privacy and compliance?",
+        "output": "IMS is committed to data privacy and compliance, adhering to relevant data protection regulations. They employ robust security measures to protect client data and ensure its confidentiality."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What industries does Urgent Cargo Logistics LTD serve?",
+        "output": "Urgent Cargo Logistics LTD serves a wide range of industries including manufacturing, retail, automotive, healthcare, and consumer goods, providing tailored logistics solutions to meet the specific needs of each sector."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer temperature-controlled logistics?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers temperature-controlled logistics solutions to ensure the safe transport of perishable goods, pharmaceuticals, and other temperature-sensitive products."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD manage supply chain risks?",
+        "output": "Urgent Cargo Logistics LTD employs a proactive approach to supply chain risk management, including contingency planning, real-time monitoring, and collaboration with clients to address potential disruptions."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What are the benefits of using Urgent Cargo's contract logistics services?",
+        "output": "Urgent Cargo's contract logistics services offer benefits such as improved operational efficiency, reduced costs, enhanced scalability, and the ability to focus on core business activities while outsourcing logistics operations."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD ensure timely delivery?",
+        "output": "Urgent Cargo Logistics LTD ensures timely delivery through efficient route planning, real-time tracking, and a reliable network of transportation partners to meet delivery deadlines."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is Urgent Cargo's policy on returns and reverse logistics?",
+        "output": "Urgent Cargo offers comprehensive reverse logistics services, including handling returns, refurbishments, and recycling, ensuring a seamless process for clients and their customers."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS handle large-scale promotional campaigns?",
+        "output": "IMS handles large-scale promotional campaigns with a robust infrastructure, experienced team, and advanced technologies to ensure efficient execution, real-time monitoring, and high engagement rates."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What measures does IMS take to prevent SMS fraud?",
+        "output": "IMS employs various measures to prevent SMS fraud, including secure sender authentication, message encryption, and real-time monitoring to detect and mitigate fraudulent activities."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS customize software solutions for specific industries?",
+        "output": "Yes, IMS provides customized software solutions tailored to the unique requirements of specific industries, ensuring that the solutions align with industry standards and business goals."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is IMS's approach to innovation?",
+        "output": "IMS is committed to innovation, continually exploring new technologies and methodologies to enhance their services and deliver cutting-edge solutions to clients."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How can I request a demo of IMS's services?",
+        "output": "You can request a demo of IMS's services by contacting their customer service team via phone or email, providing details about your needs and scheduling a suitable time for the demonstration."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the benefits of using IMS's bulk disbursement services?",
+        "output": "IMS's bulk disbursement services offer benefits such as efficient mass payments, secure transactions, customizable options, and real-time reporting to streamline financial operations."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What value-added services does Urgent Cargo Logistics LTD provide?",
+        "output": "Urgent Cargo Logistics LTD provides value-added services such as packaging, labeling, assembly, and kitting to enhance the logistics process and meet client-specific needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle hazardous materials?",
+        "output": "Urgent Cargo Logistics LTD has specialized protocols for handling hazardous materials, including compliance with safety regulations, proper labeling, and trained personnel to ensure safe transport."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer real-time tracking for shipments?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers real-time tracking for shipments, allowing clients to monitor the status and location of their goods throughout the transportation process."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD support e-commerce businesses?",
+        "output": "Urgent Cargo Logistics LTD supports e-commerce businesses with tailored logistics solutions, including efficient order fulfillment, last-mile delivery, and seamless integration with e-commerce platforms."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is Urgent Cargo's approach to customer service?",
+        "output": "Urgent Cargo Logistics LTD prioritizes customer service, offering personalized support, responsive communication, and a dedicated team to address client needs and ensure satisfaction."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Can Urgent Cargo Logistics LTD handle international shipping?",
+        "output": "Yes, Urgent Cargo Logistics LTD provides comprehensive international shipping services, including customs clearance, international freight forwarding, and coordination with global partners for seamless delivery."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the key features of IMS's loyalty solutions?",
+        "output": "IMS's loyalty solutions include customizable reward programs, real-time tracking of customer activities, data analytics to understand customer behavior, and personalized marketing to enhance customer engagement."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS's bulk airtime service work?",
+        "output": "IMS's bulk airtime service allows businesses to purchase airtime in large quantities and distribute it to recipients, making it ideal for promotional campaigns, rewards, and incentives."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS provide training for using their services?",
+        "output": "Yes, IMS offers training sessions to help clients understand and effectively use their services, ensuring clients can maximize the benefits of the solutions provided."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is IMS's process for handling customer feedback?",
+        "output": "IMS values customer feedback and has a structured process for collecting, analyzing, and addressing feedback to continuously improve their services and meet client expectations."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What industries does IMS serve?",
+        "output": "IMS serves various industries including retail, finance, healthcare, education, and telecommunications, providing tailored communication and promotional solutions to meet the specific needs of each sector."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS ensure the reliability of its SMS services?",
+        "output": "IMS ensures the reliability of its SMS services through robust infrastructure, redundant systems, and continuous monitoring to maintain high uptime and deliver messages promptly."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the process for setting up a Bulk SMS campaign with IMS?",
+        "output": "Setting up a Bulk SMS campaign with IMS involves contacting our customer service team to discuss your requirements, customizing your message, selecting your target audience, and scheduling the delivery. Our technical team will assist in setting up and testing the campaign to ensure optimal performance."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS integrate with my existing CRM system?",
+        "output": "Yes, IMS offers system integrations including API connections to your existing CRM system to streamline your communication processes and enhance your marketing strategies."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What kind of software development services does IMS provide?",
+        "output": "IMS provides custom software development services tailored to meet client-specific requirements. This includes web and mobile applications, system integrations, and bespoke software solutions to enhance business operations."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS ensure data security for its clients?",
+        "output": "IMS employs advanced security measures including encryption, secure servers, and compliance with data protection regulations to ensure the security and confidentiality of client data."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the benefits of using IMS's promotional campaign services?",
+        "output": "IMS's promotional campaign services help businesses increase their reach, engage customers effectively, and boost sales. Benefits include targeted marketing, customizable campaigns, real-time reporting, and high ROI."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Does IMS offer any loyalty solutions?",
+        "output": "Yes, IMS offers comprehensive loyalty solutions that include reward programs, customer retention strategies, and personalized marketing to enhance customer loyalty and engagement."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What kind of contract logistics services does Urgent Cargo offer?",
+        "output": "Urgent Cargo offers a range of contract logistics services including warehousing, inventory management, order fulfillment, and distribution tailored to meet client-specific needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo handle customs clearance?",
+        "output": "Urgent Cargo has a dedicated team for customs clearance, ensuring all documentation is accurately processed and compliance with international trade regulations is maintained for smooth and timely clearance of goods."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is Urgent Cargo's approach to sustainability?",
+        "output": "Urgent Cargo is committed to sustainability and incorporates eco-friendly practices in its operations. This includes optimizing routes to reduce emissions, using energy-efficient technologies, and promoting green logistics solutions."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo ensure the safety of transported goods?",
+        "output": "Urgent Cargo ensures the safety of transported goods through rigorous security protocols, real-time tracking, and employing trained personnel for handling and monitoring shipments throughout the transportation process."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What services does Interactive Media Services (IMS) offer?",
+        "output": "IMS provides a range of services including National Consumer Promotions, Bulk Disbursements (cash, airtime, data bundles, shopping vouchers), Express SMS & Bulk SMS, SMS Short Code/USSD/VoIP provision, System Integrations (Bulk SMS APIs, payment gateways APIs, loyalty solutions), and Software Development tailored to client requirements."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How can I contact IMS?",
+        "output": "You can reach us at Valley View Office Park, off Limuru Rd, City Park Dr. 7th Floor, Tower A. Phone: [+254] 709 084 000, Mobile: [+254] 709 084 200."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the 'Express SMS' service?",
+        "output": "Express SMS is a bulk SMS service designed for marketing and customer engagement, allowing you to send messages to a large number of recipients quickly."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What advantages does IMS offer?",
+        "output": "IMS offers several advantages including over 20 years of industry experience, a dedicated technical and customer care team, certified and advanced technologies, a multichannel platform with reward & customer loyalty options, and high-security policies."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What should I know about IMS's policies?",
+        "output": "IMS is committed to evolving and providing the best services to clients. We handle sessions with utmost confidentiality, and data collection is limited to enhancing user experience."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Where can I find more information about IMS's services and policies?",
+        "output": "More information can be found through our Quick Links (Bulk SMS, SMS & IVR Services, Bulk Payments, Bulk Airtime, Promotional Campaigns, Web Solutions) and Important Links (Privacy Policy, Cookies Policy, Terms & Conditions)."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How can I stay updated with IMS's latest news and offers?",
+        "output": "You can stay updated by visiting our Blog section or following us on our social media platforms."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the mission of IMS?",
+        "output": "IMS's mission is to offer advanced communication and promotion solutions tailored to meet client needs, with a focus on continuous improvement and innovation."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the footer information on IMS’s website?",
+        "output": "The footer includes a copyright notice: '© 2024 Interactive Media Services LTD - Dev/Design by IT Department.'"
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What logistics services does Urgent Cargo Logistics LTD provide?",
+        "output": "Urgent Cargo Logistics LTD offers logistics services including Road Transportation, Air Freight, Sea Freight, Bulk/Project Cargo, Rail Transport, and Contract Logistics."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Where is the headquarters of Urgent Cargo Logistics LTD located?",
+        "output": "The headquarters of Urgent Cargo Logistics LTD is located at Valley View Office Park, Tower A, 7th Floor, City Park Drive off Limuru Road, Nairobi, Kenya. Tel: +254 709 084300, P.O. Box 21210-00505, Nairobi - Kenya. Email: customerservice@urgentcargo.com."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the description of the Road/Rail Transport service?",
+        "output": "Urgent Cargo has its own fleet of trucks, low loaders, car carriers, and delivery vans fitted with trucking devices to cater for your transport needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle air freight?",
+        "output": "Urgent Cargo Logistics LTD prioritizes speed and reliability. In partnership with its international network, the company arranges for the efficient movement of air freight cargo on a door-to-door basis around the world."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the focus of Urgent Cargo's sea freight service?",
+        "output": "Sea freight is Urgent Cargo's core activity. The company offers flexible service options for ocean freight, clearance, and transportation of local and transit cargo."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How long has Urgent Cargo Logistics LTD been in business?",
+        "output": "Urgent Cargo Logistics LTD has a track record of 39 years, providing extensive experience and wisdom to serve clients with speed and accuracy."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What are the core services of Urgent Cargo Logistics LTD?",
+        "output": "Urgent Cargo Logistics LTD provides custom logistic services including road, air, rail, and sea transportation. The company ensures fast, safe, and accurate shipment to any global destination."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How many staff members does Urgent Cargo Logistics LTD have?",
+        "output": "Urgent Cargo Logistics LTD has a workforce of over 250 permanent staff, described as industry experts with global standards for customer care and support."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD ensure efficiency and compliance with global standards?",
+        "output": "Urgent Cargo Logistics LTD has invested in automation to comply with global standards and ensure efficiency in its operations."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Where are the branch offices of Urgent Cargo Logistics LTD located?",
+        "output": "Branch offices of Urgent Cargo Logistics LTD are located at ICD - Nairobi, JKIA - Nairobi, Mombasa, Nakuru, Kisumu, Eldoret, Busia, and Malaba."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the footer information on Urgent Cargo Logistics LTD’s website?",
+        "output": "The footer includes the copyright notice: '© All Rights Reserved. Urgent Cargo Logistics LTD,' and mentions that the website is designed and developed by bigideaafrica.com and maintained by the IT Department."
+    },
+
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle customer complaints?",
+        "output": "Urgent Cargo Logistics LTD has a dedicated customer service team that promptly addresses customer complaints, ensuring quick resolution and continuous improvement in their services."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What technology does Urgent Cargo Logistics LTD use for fleet management?",
+        "output": "Urgent Cargo Logistics LTD utilizes advanced fleet management technologies, including GPS tracking, telematics systems, and route optimization software to enhance operational efficiency and ensure timely deliveries."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer warehousing services?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers comprehensive warehousing services, including storage, inventory management, and distribution, to support clients' logistics needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD support supply chain visibility?",
+        "output": "Urgent Cargo Logistics LTD supports supply chain visibility through real-time tracking, data analytics, and transparent communication, enabling clients to monitor and manage their supply chain effectively."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What are Urgent Cargo Logistics LTD's service areas?",
+        "output": "Urgent Cargo Logistics LTD provides services across various regions, including local, national, and international markets, ensuring broad coverage and reliable logistics solutions."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the process for scheduling a shipment with Urgent Cargo Logistics LTD?",
+        "output": "To schedule a shipment with Urgent Cargo Logistics LTD, clients can contact their customer service team via phone, email, or through their online portal to arrange the details and confirm the logistics plan."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle cross-border logistics?",
+        "output": "Urgent Cargo Logistics LTD handles cross-border logistics with expertise in customs clearance, international regulations, and coordination with global logistics partners to ensure smooth and compliant shipments."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What kind of insurance options does Urgent Cargo Logistics LTD provide?",
+        "output": "Urgent Cargo Logistics LTD offers various insurance options to protect clients' goods during transit, including comprehensive coverage for loss, damage, and other potential risks."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Can Urgent Cargo Logistics LTD manage large-scale industrial projects?",
+        "output": "Yes, Urgent Cargo Logistics LTD has the capabilities to manage large-scale industrial projects, providing end-to-end logistics solutions tailored to the specific requirements of each project."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What makes Urgent Cargo Logistics LTD different from other logistics providers?",
+        "output": "Urgent Cargo Logistics LTD stands out due to its customer-centric approach, advanced technology integration, extensive industry experience, and a strong commitment to sustainability and efficiency."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What types of analytics tools does IMS offer?",
+        "output": "IMS offers a range of analytics tools to help clients monitor and evaluate their campaigns, including real-time dashboards, detailed reports, and predictive analytics to optimize marketing strategies."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS ensure data security for its clients?",
+        "output": "IMS ensures data security through robust encryption methods, secure servers, regular audits, and adherence to industry-standard data protection protocols to safeguard client information."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS integrate with existing client systems?",
+        "output": "Yes, IMS can integrate with clients' existing systems through APIs and custom integration solutions, ensuring seamless connectivity and enhanced functionality."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What is the process for starting a campaign with IMS?",
+        "output": "To start a campaign with IMS, clients can contact their sales team to discuss their needs, outline goals, and develop a customized campaign strategy. IMS will then manage the implementation and execution of the campaign."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS handle high-volume SMS traffic?",
+        "output": "IMS handles high-volume SMS traffic through scalable infrastructure, advanced routing algorithms, and partnerships with multiple telecom providers to ensure efficient message delivery and minimal latency."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Does IMS offer support for multilingual campaigns?",
+        "output": "Yes, IMS offers support for multilingual campaigns, allowing clients to reach diverse audiences effectively through customized messaging in various languages."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What industries benefit the most from IMS's services?",
+        "output": "Industries that benefit the most from IMS's services include retail, finance, healthcare, education, telecommunications, and entertainment, each leveraging IMS's expertise to enhance communication and promotional efforts."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS ensure high engagement rates in their campaigns?",
+        "output": "IMS ensures high engagement rates by using targeted messaging, personalized content, and interactive elements in their campaigns, coupled with data analytics to continuously optimize performance."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What sets IMS apart in the market?",
+        "output": "IMS stands out in the market due to its innovative solutions, customer-centric approach, comprehensive service offerings, and a strong track record of delivering measurable results for clients."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Does IMS offer consulting services for digital transformation?",
+        "output": "Yes, IMS offers consulting services for digital transformation, helping businesses adopt new technologies and strategies to improve their operations, enhance customer experiences, and drive growth."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS stay ahead of industry trends?",
+        "output": "IMS stays ahead of industry trends by continuously investing in research and development, attending industry conferences, collaborating with technology partners, and keeping a close watch on market developments."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the benefits of using IMS's mobile money solutions?",
+        "output": "IMS's mobile money solutions offer benefits such as secure transactions, wide accessibility, ease of use, and integration with various financial systems, making them ideal for both businesses and consumers."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle seasonal fluctuations in demand?",
+        "output": "Urgent Cargo Logistics LTD handles seasonal fluctuations in demand through flexible resource allocation, scalable logistics solutions, and strategic planning to ensure consistent service quality throughout peak periods."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is Urgent Cargo Logistics LTD's approach to innovation?",
+        "output": "Urgent Cargo Logistics LTD's approach to innovation includes adopting cutting-edge technologies, investing in research and development, and continuously improving their logistics processes to stay competitive and meet client needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Can Urgent Cargo Logistics LTD provide custom logistics solutions?",
+        "output": "Yes, Urgent Cargo Logistics LTD can provide custom logistics solutions tailored to the unique requirements of each client, ensuring that specific business needs are met efficiently."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD contribute to the local community?",
+        "output": "Urgent Cargo Logistics LTD contributes to the local community through various initiatives such as supporting local businesses, creating job opportunities, and participating in community development projects."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What are the core values of Urgent Cargo Logistics LTD?",
+        "output": "The core values of Urgent Cargo Logistics LTD include customer satisfaction, integrity, innovation, and sustainability, guiding their operations and interactions with clients and partners."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD handle emergency shipments?",
+        "output": "Urgent Cargo Logistics LTD handles emergency shipments with a dedicated team and expedited processes to ensure swift and reliable delivery, even under urgent or unforeseen circumstances."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What sustainability practices does Urgent Cargo Logistics LTD implement?",
+        "output": "Urgent Cargo Logistics LTD implements sustainability practices such as optimizing routes to reduce emissions, using eco-friendly packaging materials, and adopting energy-efficient technologies in their operations."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer consulting services for logistics optimization?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers consulting services to help clients optimize their logistics processes, improve supply chain efficiency, and reduce operational costs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is Urgent Cargo Logistics LTD's policy on data privacy?",
+        "output": "Urgent Cargo Logistics LTD has a strict data privacy policy that ensures the protection of client information through secure data handling practices, compliance with data protection regulations, and regular security audits."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD ensure timely delivery?",
+        "output": "Urgent Cargo Logistics LTD ensures timely delivery through meticulous planning, real-time tracking, efficient route optimization, and proactive communication with clients and partners."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer specialized services for fragile items?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers specialized services for fragile items, including customized packaging, careful handling, and secure transportation to ensure the safety of delicate goods."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD manage logistics for e-commerce businesses?",
+        "output": "Urgent Cargo Logistics LTD manages logistics for e-commerce businesses by offering tailored solutions such as inventory management, fast order fulfillment, seamless returns processing, and integration with e-commerce platforms."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What safety measures does Urgent Cargo Logistics LTD implement for hazardous materials?",
+        "output": "Urgent Cargo Logistics LTD implements stringent safety measures for hazardous materials, including specialized training for staff, compliance with regulatory standards, and the use of appropriate handling and transportation equipment."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Can Urgent Cargo Logistics LTD handle oversized shipments?",
+        "output": "Yes, Urgent Cargo Logistics LTD can handle oversized shipments with their expertise in planning and executing the transportation of large and heavy items, ensuring safe and timely delivery."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What industries does Urgent Cargo Logistics LTD serve?",
+        "output": "Urgent Cargo Logistics LTD serves a wide range of industries, including manufacturing, retail, healthcare, automotive, and technology, providing customized logistics solutions to meet specific industry needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD manage reverse logistics?",
+        "output": "Urgent Cargo Logistics LTD manages reverse logistics by offering efficient return processing, refurbishing, and disposal services, helping clients recover value and reduce waste from returned products."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer cold chain logistics?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers cold chain logistics to ensure the safe and temperature-controlled transportation of perishable goods such as food, pharmaceuticals, and other temperature-sensitive products."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD ensure compliance with international shipping regulations?",
+        "output": "Urgent Cargo Logistics LTD ensures compliance with international shipping regulations by staying up-to-date with global standards, training staff on regulatory requirements, and working closely with customs authorities to facilitate smooth cross-border shipments."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS help clients improve their marketing ROI?",
+        "output": "IMS helps clients improve their marketing ROI by offering data-driven strategies, targeted campaigns, performance analytics, and continuous optimization to maximize the effectiveness and efficiency of marketing efforts."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What types of promotions can IMS support?",
+        "output": "IMS supports a variety of promotions, including SMS campaigns, loyalty programs, bulk payment solutions, digital marketing initiatives, and event-driven promotions to engage customers and drive sales."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS ensure the accuracy of campaign targeting?",
+        "output": "IMS ensures the accuracy of campaign targeting through detailed audience analysis, segmentation, and the use of advanced targeting algorithms to reach the most relevant and responsive customer segments."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What kind of customer support does IMS provide?",
+        "output": "IMS provides comprehensive customer support through dedicated account managers, technical support teams, and responsive service channels to assist clients with any issues or inquiries related to their services."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS handle real-time campaign adjustments?",
+        "output": "Yes, IMS can handle real-time campaign adjustments, allowing clients to modify their promotional strategies and messaging based on performance data and market conditions to achieve better results."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What measures does IMS take to prevent SMS fraud?",
+        "output": "IMS takes several measures to prevent SMS fraud, including implementing secure authentication protocols, monitoring for suspicious activity, and collaborating with telecom providers to ensure the integrity of their SMS services."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS help clients with compliance and regulations?",
+        "output": "IMS helps clients with compliance and regulations by providing guidance on industry standards, ensuring that their services adhere to legal requirements, and assisting with documentation and reporting for regulatory purposes."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the benefits of IMS's loyalty programs?",
+        "output": "IMS's loyalty programs offer benefits such as increased customer retention, enhanced customer engagement, personalized rewards, and detailed insights into customer behavior to help businesses build stronger relationships with their customers."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS support digital marketing strategies?",
+        "output": "IMS supports digital marketing strategies by offering a range of services including content creation, social media management, SEO optimization, PPC campaigns, and performance analytics to help clients achieve their marketing goals."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What kind of performance analytics does IMS provide?",
+        "output": "IMS provides detailed performance analytics that include metrics on campaign reach, engagement, conversion rates, customer demographics, and ROI, enabling clients to make data-driven decisions for future campaigns."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What value-added services does Urgent Cargo Logistics LTD offer?",
+        "output": "Urgent Cargo Logistics LTD offers a variety of value-added services such as packaging, labeling, assembly, quality inspections, and customized reporting to enhance their core logistics offerings and meet specific client needs."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD manage risk in the supply chain?",
+        "output": "Urgent Cargo Logistics LTD manages risk in the supply chain through proactive risk assessment, contingency planning, real-time monitoring, and collaboration with reliable partners to mitigate potential disruptions and ensure continuity."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "What is the typical lead time for Urgent Cargo Logistics LTD's services?",
+        "output": "The typical lead time for Urgent Cargo Logistics LTD's services varies based on the specific requirements of each shipment, but they strive to provide timely and efficient service with clear communication throughout the process."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "Does Urgent Cargo Logistics LTD offer last-mile delivery services?",
+        "output": "Yes, Urgent Cargo Logistics LTD offers last-mile delivery services to ensure that goods are delivered directly to the final destination, providing convenience and reliability for both businesses and consumers."
+    },
+    {
+        "context": "Urgent Cargo Logistics LTD",
+        "input": "How does Urgent Cargo Logistics LTD ensure the safety of their drivers?",
+        "output": "Urgent Cargo Logistics LTD ensures the safety of their drivers through comprehensive training programs, regular vehicle maintenance, adherence to safety regulations, and the use of technology to monitor and support safe driving practices."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS customize software solutions for specific industries?",
+        "output": "IMS customizes software solutions for specific industries by understanding the unique needs and challenges of each sector, developing tailored features and integrations, and continuously refining their products based on client feedback."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What type of content creation services does IMS provide?",
+        "output": "IMS provides a range of content creation services, including copywriting, graphic design, video production, and social media content development, helping clients create compelling and engaging materials for their marketing campaigns."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "How does IMS measure the success of a campaign?",
+        "output": "IMS measures the success of a campaign through various metrics such as reach, engagement, conversion rates, ROI, and customer feedback, providing clients with comprehensive insights into the effectiveness of their promotional efforts."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "Can IMS provide service demos for potential clients?",
+        "output": "Yes, IMS can provide service demos for potential clients, showcasing their solutions and capabilities to help businesses understand how IMS can meet their specific needs and achieve their marketing objectives."
+    },
+    {
+        "context": "Interactive Media Services (IMS)",
+        "input": "What are the advantages of using IMS's bulk payment solutions?",
+        "output": "IMS's bulk payment solutions offer advantages such as streamlined payment processes, reduced administrative burden, enhanced security, and the ability to handle large volumes of transactions efficiently, making it ideal for businesses with high payment needs."
+    }
+]
